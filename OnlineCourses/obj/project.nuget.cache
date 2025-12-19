@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FA1ESHtPwF4=",
+  "dgSpecHash": "wlKKcGN1sRk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Живко\\Desktop\\uni\\3 семестър\\Уеб програмиране\\Online courses\\OnlineCourses\\OnlineCourses.csproj",
+  "projectFilePath": "C:\\Users\\Живко\\Desktop\\uni\\asd\\web\\Online courses\\OnlineCourses\\OnlineCourses.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Живко\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Живко\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

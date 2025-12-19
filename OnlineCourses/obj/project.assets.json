@@ -4782,11 +4782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Живко\\Desktop\\uni\\3 семестър\\Уеб програмиране\\Online courses\\OnlineCourses\\OnlineCourses.csproj",
+      "projectUniqueName": "C:\\Users\\Живко\\Desktop\\uni\\asd\\web\\Online courses\\OnlineCourses\\OnlineCourses.csproj",
       "projectName": "OnlineCourses",
-      "projectPath": "C:\\Users\\Живко\\Desktop\\uni\\3 семестър\\Уеб програмиране\\Online courses\\OnlineCourses\\OnlineCourses.csproj",
+      "projectPath": "C:\\Users\\Живко\\Desktop\\uni\\asd\\web\\Online courses\\OnlineCourses\\OnlineCourses.csproj",
       "packagesPath": "C:\\Users\\Живко\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Живко\\Desktop\\uni\\3 семестър\\Уеб програмиране\\Online courses\\OnlineCourses\\obj\\",
+      "outputPath": "C:\\Users\\Живко\\Desktop\\uni\\asd\\web\\Online courses\\OnlineCourses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
