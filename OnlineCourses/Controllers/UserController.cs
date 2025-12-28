@@ -71,7 +71,7 @@ namespace OnlineCourses.Controllers
             context.Users.Remove(existing);
             context.SaveChanges();
 
-            return NoContent();
+            return NoContent(); 
         
         }
     }
